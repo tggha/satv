@@ -60,7 +60,7 @@
     "jshint-stylish": "~0.2.0",
     "karma": "^0.13.22",
     "karma-jasmine": "~0.1.5",
-    "karma-ng-html2js-preprocessor": "~0.1.0",
+    "karma-ng-html2js-preprocessor": "~1.0.0",
     "karma-phantomjs-launcher": "~1.0.4",
     "load-grunt-tasks": "~3.5.2",
     "time-grunt": "~0.3.1"
